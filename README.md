@@ -1,4 +1,4 @@
-# Next.js Starter kit
+# Next.js Starter Kit
 
 This is a starter template for hacking on a frontend project _quickly_ within a friendly (but opinionated) environment.
 
