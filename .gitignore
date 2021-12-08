@@ -1,5 +1,4 @@
 node_modules
 .next
 .env.local
-*.sql
 .DS_store
