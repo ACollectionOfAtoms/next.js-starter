@@ -1,10 +1,9 @@
+import type { FunctionComponent } from "react";
 import Head from "next/head";
-import Link from "next/link";
 
-const name = "Friend";
 export const siteTitle = "Next.js Starter Kit";
 
-export default function Layout({ children }) {
+const Layout: FunctionComponent = ({ children }) => {
   return (
     <div>
       <Head>
@@ -23,4 +22,6 @@ export default function Layout({ children }) {
       <main>{children}</main>
     </div>
   );
-}
+};
+
+export default Layout;

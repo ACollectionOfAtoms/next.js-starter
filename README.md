@@ -17,3 +17,4 @@ This is a starter template for hacking on a [Next.js](https://nextjs.org/) proje
 
 - [Typescript](https://www.typescriptlang.org/)
 - [Prettier](https://prettier.io/)
+- [ESlint](https://eslint.org/)
