@@ -1,6 +1,7 @@
 # Next.js Starter Kit
 
-This is a starter template for hacking on a [Next.js](https://nextjs.org/) project _quickly_ within a friendly (but opinionated) environment.
+This is a starter template for hacking on a [Next.js](https://nextjs.org/) project _quickly_. The intent for this template
+is to be lightweight yet opinionated.
 
 ## User Interface
 
