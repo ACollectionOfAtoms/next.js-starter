@@ -8,29 +8,30 @@
     "start": "next start"
   },
   "dependencies": {
-    "@chakra-ui/react": "^1.7.1",
-    "@emotion/react": "^11.6.0",
-    "@emotion/styled": "^11.6.0",
+    "@chakra-ui/react": "^1.8.8",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
     "axios": "^0.22.0",
     "framer-motion": "^4.1.17",
-    "next": "^11.1.2",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "react-query": "^3.26.0"
+    "latest": "^0.2.0",
+    "next": "^11.1.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-query": "^3.34.20"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.17.0",
-    "@testing-library/react": "^12.1.2",
-    "@types/node": "^16.10.3",
-    "@types/react": "^17.0.27",
+    "@testing-library/react": "^12.1.5",
+    "@types/node": "^16.11.27",
+    "@types/react": "^17.0.44",
     "@types/web": "^0.0.46",
-    "@typescript-eslint/parser": "^5.16.0",
+    "@typescript-eslint/parser": "^5.19.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-react": "^7.29.4",
-    "eslint-plugin-react-hooks": "^4.3.0",
-    "jest": "^27.2.5",
+    "eslint-plugin-react-hooks": "^4.4.0",
+    "jest": "^27.5.1",
     "prettier": "2.4.1",
-    "typescript": "^4.4.3"
+    "typescript": "^4.6.3"
   }
 }
