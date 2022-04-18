@@ -14,9 +14,9 @@
     "axios": "^0.22.0",
     "framer-motion": "^4.1.17",
     "latest": "^0.2.0",
-    "next": "^11.1.4",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "next": "^12.1.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
     "react-query": "^3.34.20"
   },
   "devDependencies": {
