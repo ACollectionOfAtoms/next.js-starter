@@ -3,7 +3,7 @@ import Head from "next/head";
 
 export const siteTitle = "Next.js Starter Kit";
 
-const Layout: FunctionComponent = ({ children }) => {
+const Layout = ({ children }) => {
   return (
     <div>
       <Head>
